@@ -1,17 +1,20 @@
-### Console.log("HELLO THERE 😄");
+### Console.WriteLn("HELLO THERE 😄");
 ![web-developer-banner](https://user-images.githubusercontent.com/74597544/126309268-a7feff6e-2ad9-4b06-8c53-dac577ded3f1.png)
 
 
-Currently looking for an opportunity. I'm a Junior Frontend web developer who love to create new thing and explore new ideas.
+I'm a Back End developer who love to create new thing and explore new ideas.
 For now I being creating my own projects to improve my skills. Talking about skills these are my main skills
 
-- :trophy: Javascript
-- :cyclone: React.js
-- :zap: Redux
-
-- :sunny: Node.js
-- :trident: Express.js
-- :art: PostgreSQL
+- :trophy: C#
+- :cyclone: LinQ
+- :zap: Javascript
+- :sunny: .Net Core / .Net Framework
+- :trident: SQLServer
+- :art: EntityFramewrok
+- 💡: React
+- 🧞: Node.Js
+- ✈️PostgreSql
+- ☁️: Azure
 
 --------------------
 
