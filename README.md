@@ -20,7 +20,7 @@ For now I being creating my own projects to improve my skills. Talking about ski
 
 Feel free to contact me if you wanna know more about me or just simply check my profiles :smile: 
 
-### My Linkedin: https://www.linkedin.com/in/carlos-rodas-65303a1a8/ 
+### My Linkedin: https://www.linkedin.com/in/carlosrodaas/
 
 ### My Email: crodas035@gmail.com
 
